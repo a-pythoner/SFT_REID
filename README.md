@@ -6,7 +6,7 @@
     The program is developed on MXNet 1.3.1 and Python 3.5.
     You can install dependency as follow:
     ```bash
-    pip3 -r requirement.txt
+    pip3 install -r requirement.txt
     ```
 
 2. Create directories to store logs or checkpoints.
